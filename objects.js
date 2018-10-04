@@ -1,4 +1,4 @@
-var playlist = {"My Bloody Valentine" "song1",
+var playlist = {"My Bloody Valentine": "song1",
   "Slowdive": "song2",
   "Phil ochs": "song3"};
   
